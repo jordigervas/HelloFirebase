@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/aee4170d0304669ac07d9e926be6631d3ecb59e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_9059dded8c1655ade8558fe555223c2e223ef6a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/3b4834c3c41c3e73f7515682779365adda913fe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_758b90a32f646b7ec27863907d5b1b5808f30288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/252b672fbb875140dd7820e6813a6ad2c3b66f40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_c70162c4c2293c6f09e307b5e2758c9676fb85be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/32057ee3118f1c37347358c09462899896298e10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_1505847b02f74325d0fc9398a1ba4f227acda14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/93b13a673bc01e999fd65bfaf27fb94103a5aa80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_584692095a3d7790ab5a2f971ab26eb6f8de6a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/d44908fce93a84d4b16e79f1c7578e2693beebb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_3fb751adf47021bf15a1fc58ce65698a9932b3b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/9d35869ad1af388bffcb904f9e2197ab660afa2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_5b01c94bfe4638616c6019ead7c47502c1ead184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/3b25af6a108dac3e4fc15f86c103317606d88285/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_18793944f42108edf7221def5a953e7624170a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/4b098f709d849fe16c9b1c058c76f663eec1f768/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_8a7953634033565f1ac4f1a7509d7e17b9e508de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/3594adefa8affbc0cb2c3d6e159fd756e5981d92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_6f3fba1a2055dceacbb33ffeb21c8502065b9682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/5aba6fc8b0355af84984dd2b2c287647d545918c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_9ede17fab8a3e6f0554424e76100d05e46aea282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/257d4f34f58d345b36bf14520c55309c7a34a4fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_7aa3a080290444cb5ef34e03c027f4bd9bdcc586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/4350dc323a899905accb36d5b0f0c5b8b7c6c15d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_8fe9c97d75b126aba4350c548632870d99db7690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/284acda8bc65976cf8a5d3465ef9512d070ed5bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_054f14fb3feb93288d1cc58a3e6f962960844f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/eclipse/android-sdks/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_77fc7f5e888345c5e1936d61259f646138a865b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/d0108134f650d31bf93685af71bf77b2f46636de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_8455ac2a46a7401989875127bdfc03b209af0a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/txevas/.android/build-cache/e069a5148cecf5201db18f825d7f4b7e895c93c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/txevas/AndroidStudioProjects/HelloFirebase/app/build/intermediates/pre-dexed/debug/classes_9540297f25391035a01d27f3cd254231e6a741df.jar" />
+    </item>
+
+</items>
